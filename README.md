@@ -1,0 +1,29 @@
+- CSS box model
+    - margin, border, padding, content
+    - radius
+- CSS selector
+  - class, id
+  - tag
+  - parent > child
+- Chrome developer tool
+  - inspector
+- Text
+  - font size
+  - line height
+- Overflow, scroll
+- Flexbox
+- Responsive
+  - flex
+  - @media query
+- Flexbox
+  - container
+    - display
+    - flex-direction
+    - flex-wrap
+    - justify-content
+    - align-items
+  - items
+    - flex-grow
+    - flex-shrink
+    - flex-basis
+    - flex
